@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR4d0570/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0570/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 灤京雜詠
+  date: '2015-08-25 00:14:52.936610'
+  source:
+    repository: kanripo
+    path: KR4d0570
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0570_000-WYG.yaml, hash: 'sha256:af389a02c25233fff0f5f1d07dc5ae8a33643faf0cb8d66e17f75bbcf32acad3'}
+  - {seq: 1, filename: KR4d0570_001-WYG.yaml, hash: 'sha256:49ba1dace2fb1519c24fd087d2e884d77c70ee4a802a1a10dbc5fc456720502a'}
+  - {seq: 2, filename: KR4d0570_002-WYG.yaml, hash: 'sha256:9f78f85934c2dc8c0a2dd85e2efb999699d3f9c78d169f635adf48cafd396892'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0570_000-WYG.markers.yaml, hash: 'sha256:98c4f8130f5f458a4e5ec090010001208dd26d91757de9f68ce3f0f202049d56'}
+  - {seq: 1, role: markers, filename: assets/KR4d0570_001-WYG.markers.yaml, hash: 'sha256:c7350044bbc3e6be9488b535aa6800d2760c8c0e7354126dde2ce81310137c79'}
+  - {seq: 2, role: markers, filename: assets/KR4d0570_002-WYG.markers.yaml, hash: 'sha256:9c2ea4bbf7e7ee4fbb85ac62787927b5eb49290543dc20ca1d5edae3ab0e2638'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0570_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 390
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0570_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4146
+  label: 灤京雜詠
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4d0570_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 4
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:7ad8e8639a472f38ba403781ccd4af86f910282f172be2bd434dfbe135e3b40d

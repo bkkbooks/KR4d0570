@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0570/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0570_WYG_000-1a, image: WYG1219/WYG1219-0617a.png}
+body:
+  text: 灤京雜詠别集類四元提要臣等謹案灤京雜詠一卷元楊允孚撰允孚字和吉吉水人其始末未詳惟集後羅大巳跋稱楊君以布衣襆被嵗走萬里窮西北之勝凡山川物産典章風俗無不以詠歌紀之則允孚似未登仕版者然第四十九首注稱每湯羊一膳具數十六餐餘必賜左右大臣日以為常豫嘗職賜故悉其詳云云則亦順帝時尚食供奉之官非逰士矣又末數首中一則曰宫監何年百念消冠簪驚見髻蕭蕭挑燈細說前朝事客子朱顔一夕凋一則曰彊欲澆愁酒一巵解鞍閒看古祠碑居庸十載興亡事惟有天中月色知一則曰試將往事記從頭老鬢征衫總是愁天上人間今又昔灤河珍重水長流則是集作於入明之後矣其詩凡一百八首題曰百詠蓋舉成數其曰灤京者以灤河徑上都城南故元時亦有此稱詩中所記元一代避暑行幸之典多史所未詳其詩下自注亦皆賅悉蓋其體本王建宫詞而故宫禾黍之感則與孟元老之東京夢華録吳自牧之夢梁録周密之武林舊事同一用意矣乾隆四十六年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:baa735cffa78ed5ab33d61a79af8b6af188a71f43bdcb053cac8af72483981c7
+metadata:
+  title: 灤京雜詠
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:14:52.936610'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0570/KR4d0570_000.txt
+hash: sha256:5ccf58701a39be5879f73e0b484df536e8e84adff9cceed4e3f0439976930059
